@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/m6nKC55.png"></img>
+<img src="https://i.imgur.com/6deGkOb.png"></img>
 <br>
 <br>
 I'm Jaice de Celis, previously a sales leader and professional, now transitioning into the tech space. Through self study, boot camp guided education and the help of many close friends and mentors, I am developing a skill set in both Frontend and Backend technologies. I look forward to building and maintaining a life long career in development through continuous education and impactful work.
