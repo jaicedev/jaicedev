@@ -11,12 +11,12 @@ I'm Jaice de Celis, previously a sales leader and professional, now transitionin
 - Node JS
 - Figma
 - Adobe Photoshop
+- React Native
 
 
 ## ✔️ I'm currently learning
 - TypeScript
 - AWS
-- React Native
 - PWA
 
 ## 📡 Technologies on my Radar
