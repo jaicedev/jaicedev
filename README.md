@@ -26,8 +26,6 @@ I'm Jaice de Celis, previously a sales leader and professional, now transitionin
 - GraphQL
 - Gatsby
 
-![JaiceDev github stats](https://github-readme-stats.vercel.app/api?username=jaicedev&hide=["issues"]&show_icons=true)
-
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
 - 🖼️ Portfolio: [Visit](https://jaicedev.github.io/)
