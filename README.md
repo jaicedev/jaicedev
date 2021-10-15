@@ -6,24 +6,17 @@ I'm Jaice de Celis, previously a sales leader and professional, now a full time 
 ## 🧰 My Current Toolset
 - HTML5 / CSS3
 - Vanilla JS
-- jQuery
-- React JS
-- Node JS
-- Figma
-- Adobe Photoshop
-- React Native
-
+- React / React Native
+- Node JS / Ruby on Rails
 
 ## ✔️ I'm currently learning
 - Ruby on Rails
-- AWS
-- PWA
 
 ## 📡 Technologies on my Radar
 - Next.Js
 - Kubernetes
 - Electron
-- Postgre
+- GraphQL
 
 ## 👋 Reach out to me 
 - 💬 Ask me about anything.
