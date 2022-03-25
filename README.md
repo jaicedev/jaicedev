@@ -1,21 +1,18 @@
 <img src="https://i.imgur.com/4ukrFPu.png"></img>
 <br>
 <br>
-I'm Jaice de Celis, previously a sales leader and professional, now a full time React / React Native engineer working in fintech. Through self study, boot camp guided education and the help of many close friends and mentors, I am developing a skill set in both Frontend and Backend technologies. I look forward to building and maintaining a life long career in development through continuous education and impactful work.
+Software Engineer @ Caplight Technologies & Sales Director @ Swipe Save Consulting | Web Developer / Serial Entrepreneur / Sales Pro | Passionate About How Technology and Business Can Work Together.
 
 ## 🧰 My Current Toolset
-- HTML5 / CSS3
-- Vanilla JS
-- React / React Native
-- Node JS / Ruby on Rails
+- React
+- Node JS
+- Python
 
 ## ✔️ I'm currently learning
-- Ruby on Rails
+- Functional Programming & Design
 
 ## 📡 Technologies on my Radar
 - Next.Js
-- Kubernetes
-- Electron
 - GraphQL
 
 ## 👋 Reach out to me 
