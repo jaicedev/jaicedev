@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/4ukrFPu.png"></img>
 <br>
 <br>
-Software Engineer @ Caplight Technologies & Sales Director @ Swipe Save Consulting | Web Developer / Serial Entrepreneur / Sales Pro | Passionate About How Technology and Business Can Work Together.
+Full Stack Developer / Serial Entrepreneur / Sales Pro | Passionate About How Technology and Business Can Work Together.
 
 ## 🧰 My Current Toolset
 - React
