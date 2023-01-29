@@ -3,21 +3,21 @@
 <br>
 Full Stack Developer / Serial Entrepreneur / Sales Pro | Passionate About How Technology and Business Can Work Together.
 
-## 🧰 My Current Toolset
-- React
-- Node JS
-- Python
+## 🧰 Current Toolset
+- React & Next JS
+- TypeScript
+- NodeJS
+- NoSql, PostreSQL
 
-## ✔️ I'm currently learning
-- Functional Programming & Design
-
-## 📡 Technologies on my Radar
-- Next.Js
-- GraphQL
+## 🔍 I'm Investigating
+- Functional Programming and Design
+- Systems Design Paradigms
+- Large Scale Data Storage
+- Edge Computing
 
 ## 👋 Reach out to me 
-- 💬 Ask me about anything.
-- 🖼️ Portfolio: [Visit](https://jaicedev.github.io/)
+- 💬 [Schedule a meeting](https://calendly.com/jaicedev/30)
+- 🖼️ [Portfolio](https://jaicedev.github.io/)
 
 
-💎 Favorite Quote: "The journey of a thousand miles begins with a single step" - Lao Tzu
+💎 **Favorite Quote:** "The journey of a thousand miles begins with a single step" - Lao Tzu
