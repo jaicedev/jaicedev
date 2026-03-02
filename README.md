@@ -1,23 +1,28 @@
-<img src="https://i.imgur.com/4ukrFPu.png"></img>
-<br>
-<br>
-Full Stack Developer / Serial Entrepreneur / Sales Pro | Passionate About How Technology and Business Can Work Together.
+Jaice
 
-## 🧰 Current Toolset
-- React & Next JS
-- TypeScript
-- NodeJS
-- NoSql, PostreSQL
+**Your favorite engineers favorite engineer.**
 
-## 🔍 I'm Investigating
-- Functional Programming and Design
-- Systems Design Paradigms
-- Large Scale Data Storage
-- Edge Computing
+Building the infrastructure layer for private capital markets.
 
-## 👋 Reach out to me 
-- 💬 [Schedule a meeting](https://calendly.com/jaicedev/30)
-- 🖼️ [Portfolio](https://jaicedev.github.io/)
+I design and ship full-stack production systems solo using AI-augmented engineering workflows. Currently building enterprise fintech platforms, automated underwriting engines, and vertical SaaS products across multiple concurrent codebases.
 
+**Primary Stack**
 
-💎 **Favorite Quote:** "The journey of a thousand miles begins with a single step" - Lao Tzu
+TypeScript, React, Next.js, Hono, tRPC
+FastAPI, Python
+PostgreSQL, Redis, Meilisearch, MinIO
+Drizzle ORM, BullMQ, Socket.io
+Docker, Caddy
+Claude, Cursor, multi-agent orchestration
+blah blah blah
+
+the list is infinite these days. AI makes it all the same.
+
+Building
+
+Lend.Works — brokerage-in-a-box CRM for the lending industry. 50+ API modules, 80+ background services, multi-tenant w/ SOC II readiness.
+Banklyze — AI-powered underwriting. OCR extraction, deterministic scoring algos, 12-stage processing pipeline. Industry leading accuracy.
+Downshift Digital — dev studio focused on custom tech for SMBs. 17 projects completed.
+Thornebridge — bespoke high-performance infrastructure layer quietly orchestrating all of the above
+
+Connect w/ me
