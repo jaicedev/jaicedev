@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=&fontSize=0" width="100%"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Jaice;Your+favorite+engineer's+favorite+engineer.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Jaice;Your+favorite+engineer.">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=3000&pause=1000&color=0D1117&center=true&vCenter=true&repeat=true&width=700&height=60&lines=Jaice;Your+favorite+engineer.">
 </picture>
 
